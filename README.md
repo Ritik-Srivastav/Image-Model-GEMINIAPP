@@ -1,0 +1,1 @@
+This project is an Image Detection and Summarization system built using Google Gemini Pro. It takes an image and a text prompt (specifying what you would like to do with the image) as input and returns the most relevant response.
